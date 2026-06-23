@@ -1,0 +1,9 @@
+User Login Feature
+
+Description:
+Users can log in to the application using their email and password.
+The system should validate credentials against the database.
+After 3 failed attempts the account should be locked for 15 minutes.
+A "Forgot Password" link is available on the login page.
+Successful login redirects the user to their dashboard.
+The session expires after 30 minutes of inactivity.
